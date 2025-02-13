@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Shikha Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://github.com/Shikhaxingh01/Shikhaxingh01/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhaxingh01&label=Profile%20views&color=0e75b6&style=flat" alt="shikhaxingh01" /> </p>
 
