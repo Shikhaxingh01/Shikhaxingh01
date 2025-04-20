@@ -13,7 +13,7 @@ I am a passionate **Java Developer** and **Full Stack Developer (MERN)**, explor
 
 ### 🔥 About Me:
 - 🎓 **Education**: B.Tech in Computer Science & Engineering
-- 💻 **Skills**: Java, JavaScript, PHP, HTML, CSS, ReactJS, MongoDB, MySQL
+- 💻 **Skills**: Java, JavaScript,Python,ML, PHP, HTML, CSS, ReactJS, MongoDB, MySQL
 - 🚀 **Hackathons**: Finalist in HackOFiesta, HackCBS 6.0, SIH 2021-22
 - 🌱 **Currently Learning**: Cloud Deployment, WebRTC
 
